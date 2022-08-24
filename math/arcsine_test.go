@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/ericlagergren/decimal"
+	"github.com/razor-1/decimal"
 )
 
 func TestAsin(t *testing.T) {

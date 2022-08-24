@@ -1,4 +1,4 @@
-# decimal [![Build Status](https://travis-ci.org/ericlagergren/decimal.png?branch=master)](https://travis-ci.org/ericlagergren/decimal) [![GoDoc](https://godoc.org/github.com/ericlagergren/decimal?status.svg)](https://godoc.org/github.com/ericlagergren/decimal)
+# decimal [![Build Status](https://travis-ci.org/ericlagergren/decimal.png?branch=master)](https://travis-ci.org/ericlagergren/decimal) [![GoDoc](https://godoc.org/github.com/razor-1/decimal?status.svg)](https://godoc.org/github.com/razor-1/decimal)
 
 `decimal` is a high-performance, arbitrary precision, floating-point decimal
 library implementing the [General Decimal Arithmetic](http://speleotrove.com/decimal/) specification.
@@ -14,11 +14,11 @@ library implementing the [General Decimal Arithmetic](http://speleotrove.com/dec
 
 ## Installation
 
-`go get github.com/ericlagergren/decimal`
+`go get github.com/razor-1/decimal`
 
 ## Documentation
 
-[Godoc](http://godoc.org/github.com/ericlagergren/decimal)
+[Godoc](http://godoc.org/github.com/razor-1/decimal)
 
 ## Versioning
 
@@ -26,4 +26,4 @@ library implementing the [General Decimal Arithmetic](http://speleotrove.com/dec
 
 ## License
 
-The [BSD 3-clause](https://github.com/ericlagergren/decimal/blob/master/LICENSE)
+The [BSD 3-clause](https://github.com/razor-1/decimal/blob/master/LICENSE)

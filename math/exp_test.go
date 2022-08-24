@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ericlagergren/decimal"
+	"github.com/razor-1/decimal"
 )
 
 var exp_X, _ = new(decimal.Big).SetString("123.456")

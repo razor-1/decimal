@@ -1,4 +1,4 @@
-# decimal [![Build Status](https://travis-ci.org/ericlagergren/decimal.png?branch=master)](https://travis-ci.org/ericlagergren/decimal) [![GoDoc](https://godoc.org/github.com/ericlagergren/decimal?status.svg)](https://godoc.org/github.com/ericlagergren/decimal)
+# decimal [![Build Status](https://travis-ci.org/ericlagergren/decimal.png?branch=master)](https://travis-ci.org/ericlagergren/decimal) [![GoDoc](https://godoc.org/github.com/razor-1/decimal?status.svg)](https://godoc.org/github.com/razor-1/decimal)
 
 Decimal est une logithèque décimal virgule flottante, avec haute performance et
 précision arbitrarie que mettre en œuvre la spécification
@@ -15,11 +15,11 @@ précision arbitrarie que mettre en œuvre la spécification
 
 ## Installation
 
-`go get github.com/ericlagergren/decimal`
+`go get github.com/razor-1/decimal`
 
 ## Documentation
 
-[Godoc](http://godoc.org/github.com/ericlagergren/decimal)
+[Godoc](http://godoc.org/github.com/razor-1/decimal)
 
 ## Gestion des versions
 
@@ -28,4 +28,4 @@ précision arbitrarie que mettre en œuvre la spécification
 
 ## Licence
 
-La [BSD 3-clause](https://github.com/ericlagergren/decimal/blob/master/LICENSE)
+La [BSD 3-clause](https://github.com/razor-1/decimal/blob/master/LICENSE)

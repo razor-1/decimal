@@ -4,9 +4,9 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/ericlagergren/decimal/internal/arith"
-	"github.com/ericlagergren/decimal/internal/arith/checked"
-	cst "github.com/ericlagergren/decimal/internal/c"
+	"github.com/razor-1/decimal/internal/arith"
+	"github.com/razor-1/decimal/internal/arith/checked"
+	cst "github.com/razor-1/decimal/internal/c"
 )
 
 // Add sets z to x + y and returns z.

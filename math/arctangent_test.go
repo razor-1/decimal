@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ericlagergren/decimal"
+	"github.com/razor-1/decimal"
 )
 
 func TestAtan(t *testing.T) {

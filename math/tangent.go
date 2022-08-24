@@ -1,10 +1,10 @@
 package math
 
 import (
-	"github.com/ericlagergren/decimal"
-	"github.com/ericlagergren/decimal/internal/arith"
-	"github.com/ericlagergren/decimal/internal/arith/checked"
-	"github.com/ericlagergren/decimal/misc"
+	"github.com/razor-1/decimal"
+	"github.com/razor-1/decimal/internal/arith"
+	"github.com/razor-1/decimal/internal/arith/checked"
+	"github.com/razor-1/decimal/misc"
 )
 
 func prepTan(z, x *decimal.Big, ctx decimal.Context) (*decimal.Big, bool) {

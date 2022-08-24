@@ -3,7 +3,7 @@ package math
 import (
 	"testing"
 
-	"github.com/ericlagergren/decimal"
+	"github.com/razor-1/decimal"
 )
 
 func TestFloor(t *testing.T) {

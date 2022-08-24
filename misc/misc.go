@@ -4,9 +4,9 @@ package misc
 import (
 	"math/big"
 
-	"github.com/ericlagergren/decimal"
-	"github.com/ericlagergren/decimal/internal/arith"
-	"github.com/ericlagergren/decimal/internal/c"
+	"github.com/razor-1/decimal"
+	"github.com/razor-1/decimal/internal/arith"
+	"github.com/razor-1/decimal/internal/c"
 )
 
 var (

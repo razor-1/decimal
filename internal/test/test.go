@@ -11,10 +11,10 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/ericlagergren/decimal"
-	"github.com/ericlagergren/decimal/math"
-	"github.com/ericlagergren/decimal/misc"
-	"github.com/ericlagergren/decimal/suite"
+	"github.com/razor-1/decimal"
+	"github.com/razor-1/decimal/math"
+	"github.com/razor-1/decimal/misc"
+	"github.com/razor-1/decimal/suite"
 )
 
 // Helper returns testing.T.Helper, if it exists.
@@ -122,8 +122,8 @@ func (c *scase) execute(name Test) {
 			c.Assert(rv, r)
 			c.Assert(snan, c.x.Context.Conditions&decimal.InvalidOperation != 0)
 		case Shift:
-			//v, _ := c.y.Int64()
-			//c.Check(misc.Shift(c.z, c.x, int(v)))
+			// v, _ := c.y.Int64()
+			// c.Check(misc.Shift(c.z, c.x, int(v)))
 		case Quant:
 			v, _ := c.y.Int64()
 			c.Check(c.x.Quantize(int(v)))

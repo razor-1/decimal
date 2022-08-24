@@ -3,15 +3,15 @@ package misc_test
 import (
 	"testing"
 
-	"github.com/ericlagergren/decimal"
-	"github.com/ericlagergren/decimal/internal/test"
-	"github.com/ericlagergren/decimal/misc"
+	"github.com/razor-1/decimal"
+	"github.com/razor-1/decimal/internal/test"
+	"github.com/razor-1/decimal/misc"
 )
 
 func TestBig_NextMinus(t *testing.T) { test.NextMinus.Test(t) }
 func TestBig_NextPlus(t *testing.T)  { test.NextPlus.Test(t) }
 
-//func TestBig_Shift(t *testing.T)     { test.Shift.Test(t) }
+// func TestBig_Shift(t *testing.T)     { test.Shift.Test(t) }
 
 func TestCmpTotal(t *testing.T) {
 	for i, test := range [...]struct {

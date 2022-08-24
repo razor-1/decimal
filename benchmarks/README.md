@@ -43,7 +43,7 @@ so it's unranked in the Pi test. Similarly so with [apmckinlay/dnum][3].
 | [ericlagergren/decimal][1] (Go 1.9, mode Go)   | 2.73     | 9.70      | 15.02     | 26.13     | 26.62     | 16.04   |
 | float64 (Go 1.9)                          | 0.0034   | -         | -         | -         | -         | -       |
 
-[1]: https://github.com/ericlagergren/decimal
+[1]: https://github.com/razor-1/decimal
 [2]: https://github.com/cockroachdb/apd
 [3]: https://github.com/apmckinlay/gsuneido/util/dnum
 [4]: https://docs.oracle.com/javase/8/docs/api/java/math/BigDecimal.html

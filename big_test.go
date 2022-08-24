@@ -9,8 +9,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/ericlagergren/decimal"
-	"github.com/ericlagergren/decimal/internal/test"
+	"github.com/razor-1/decimal"
+	"github.com/razor-1/decimal/internal/test"
 )
 
 func TestBig_Abs(t *testing.T)        { test.Abs.Test(t) }

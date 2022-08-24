@@ -3,7 +3,7 @@ package benchmarks
 import (
 	"testing"
 
-	"github.com/ericlagergren/decimal"
+	"github.com/razor-1/decimal"
 )
 
 const mbrotiters = 10000000

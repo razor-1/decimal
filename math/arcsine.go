@@ -1,8 +1,8 @@
 package math
 
 import (
-	"github.com/ericlagergren/decimal"
-	"github.com/ericlagergren/decimal/misc"
+	"github.com/razor-1/decimal"
+	"github.com/razor-1/decimal/misc"
 )
 
 // Asin returns the arcsine, in radians, of x.

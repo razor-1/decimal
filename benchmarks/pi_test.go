@@ -7,7 +7,7 @@ import (
 
 	"github.com/apmckinlay/gsuneido/util/dnum"
 	"github.com/cockroachdb/apd"
-	"github.com/ericlagergren/decimal"
+	"github.com/razor-1/decimal"
 	ssdec "github.com/shopspring/decimal"
 	"gopkg.in/inf.v0"
 )

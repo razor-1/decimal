@@ -3,7 +3,7 @@ package math_test
 import (
 	"testing"
 
-	"github.com/ericlagergren/decimal/internal/test"
+	"github.com/razor-1/decimal/internal/test"
 )
 
 func TestExp(t *testing.T)   { test.Exp.Test(t) }

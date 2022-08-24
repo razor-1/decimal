@@ -1,6 +1,6 @@
 package math
 
-import "github.com/ericlagergren/decimal"
+import "github.com/razor-1/decimal"
 
 var (
 	negfour   = decimal.New(-4, 0)

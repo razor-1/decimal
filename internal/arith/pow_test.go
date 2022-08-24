@@ -6,7 +6,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/ericlagergren/decimal/internal/c"
+	"github.com/razor-1/decimal/internal/c"
 )
 
 func TestBigTen(t *testing.T) {
